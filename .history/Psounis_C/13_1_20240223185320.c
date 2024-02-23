@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 struct point{
     float x;

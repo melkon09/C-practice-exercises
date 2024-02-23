@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h>
+#include <ma
 
 struct point{
     float x;

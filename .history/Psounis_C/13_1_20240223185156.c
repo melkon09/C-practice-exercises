@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 struct point{
     float x;
@@ -13,11 +12,7 @@ int main()
 {
     struct point A, B;
     printf("1o simeio: \n");
-    read_point(&A);
-    printf("2o simeio: \n");
-    read_point(&B);
-
-    printf("H eukleidia apostash einai: %.3f", eukleidia_apostasi(A,B));
+    read_point(*A);
 }
 
 void read_point(struct point *p)
