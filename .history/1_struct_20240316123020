@@ -1,0 +1,10 @@
+typedef struct Student
+{
+    char name[50];
+    int age;
+    float totalMarks;
+} Student;
+
+int main()
+{"
+"}
