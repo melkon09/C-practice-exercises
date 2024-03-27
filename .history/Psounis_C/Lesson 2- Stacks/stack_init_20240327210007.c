@@ -1,0 +1,1 @@
+/* ST_init(): arxikopoiei th lista*/
